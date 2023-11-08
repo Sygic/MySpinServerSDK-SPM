@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MySpinServerSDK",
-            url: "todo",
-            checksum: "todo")
+            url: "https://github.com/jurajantas/MySpinServerSDK/releases/download/2.15.0/MySpinServerSDK.xcframework.zip",
+            checksum: "600789077dd9cb761f71696c85dbe3e9f6bff4927929d027a511ae4ab060d8fd")
     ]
 )
